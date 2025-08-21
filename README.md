@@ -34,7 +34,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=denissotnichenko&show_icons=true&theme=tokyonight)
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=denishen0000&show_icons=true&theme=tokyonight)
 
 ---
 
