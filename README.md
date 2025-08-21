@@ -17,7 +17,8 @@
 ## 🚀 Featured Projects
 📌 *(Pinned below, but here’s a quick overview)*  
 
-- [
+- 🕹️ **[Minesweeper (Java)](https://github.com/denishen0000/Minesweeper)** – Classic terminal-based Minesweeper with randomized mines and interactive text-based gameplay.
+
 
 - [📈 Stock Market Analyzer](https://github.com/username/project) – Predictive analytics using ML  
 
