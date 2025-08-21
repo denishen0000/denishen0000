@@ -18,6 +18,7 @@
 📌 *(Pinned below, but here’s a quick overview)*  
 
 - 🕹️ **[Minesweeper (Java)](https://github.com/denishen0000/Minesweeper)** – Classic terminal-based Minesweeper with randomized mines and interactive text-based gameplay.
+- 🤖 **[Encoder–Decoder Fine-Tuning](https://github.com/denishen0000/your-repo-name)** – Implemented and fine-tuned encoder–decoder architectures for sequence modeling tasks with custom training pipelines.
 
 
 - [📈 Stock Market Analyzer](https://github.com/username/project) – Predictive analytics using ML  
