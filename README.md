@@ -2,34 +2,32 @@
 
 🎓 **Undergraduate at Williams College** (Class of 2027)  
 📚 Triple-majoring in **Mathematics, Computer Science, and Chinese**  
-📊 Interested in **FILL IN**  
-🌏 Passionate about languages & cultu 
+📊 Interested in **Backend Development**  
+🌏 Passionate about languages & linguistic
 
 ---
 
 ## 🔧 Tech & Tools
-- **Programming:** Python, Java, F#, Bash, C++
-- **Data & ML:** NumPy, Pandas, PyTorch  
-- **Other Tools:** Git, Linux, SQL, LaTeX 
+- **Programming:** Java, Python, F\#, JavaScript/TypeScript, C\#, Bash, PostgreSQL
+- **Technologies:** React.js, Next.js, Tailwind CSS, Recharts, Axios, Node.js, Spring Boot, JPA, JWT, Socket.IO, PyTorch, Hugging Face}
+- **Other Tools:** Git, Linux, LaTeX, SQL 
 
 ---
 
 ## 🚀 Featured Projects
-📌 *(Pinned below, but here’s a quick overview)*  
+📌 *(Pinned below, but here’s a quick overview)* 
 
-- 🕹️ **[Minesweeper (Java)](https://github.com/denishen0000/Minesweeper)** – Classic terminal-based Minesweeper with randomized mines and interactive text-based gameplay.
+- 🚚 **[Logistics Management System](https://github.com/denishen0000/Logistics-Management-System)** – Full-stack logistics platform built with **Spring Boot**, **PostgreSQL**, and **Spring Security**. Features shipment CRUD, driver assignment, automated shipment status tracking (PENDING, IN_TRANSIT, DELAYED, DELIVERED), and secure role-based access.
+- 🏆 **[Real-time Leaderboard System](https://github.com/denishen0000/Real-time-Leaderboard-System)** – Full-stack leaderboard app built with **Next.js**, **Node.js**, **PostgreSQL (Prisma)**, and **Socket.IO**. Supports real-time score updates, game CRUD operations, and JWT-based authentication.
 - 🤖 **[Encoder–Decoder Fine-Tuning](https://github.com/denishen0000/encoder-decoder-finetuning)** – Implemented and fine-tuned Meta’s NLLB-200 translation model, designing experiments on multilingual data to analyze how lexical vs. syntactic overlap affects performance in low-resource languages.
-
-
-- [📈 Stock Market Analyzer](https://github.com/username/project) – Predictive analytics using ML  
-
+- 🔢 **[MatCalc](https://github.com/denishen0000/MatCalc)** – Domain-specific programming language for matrix computation. Supports paper-like matrix input (`row{}` / `col{}`), built-in operations (+, −, *, ^T), variables, and natural mathematical syntax.
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Deep Learning** techniques  
-- High-performance computing  
-- Financial data modeling & quantitative strategies  
+- C programming language
+- Dockerization
+- Cloud Computing
 
 ---
 
