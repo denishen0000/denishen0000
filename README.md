@@ -35,8 +35,8 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/denishen/))  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:ds23@williams.edu)
 
 ---
 ✨ *“Math, code, and curiosity — building bridges between theory and application.”*
