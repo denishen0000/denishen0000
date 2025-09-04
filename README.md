@@ -35,7 +35,7 @@
 ---
 
 ## 🌐 Connect with Me
-LinkedIn https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/denishen/  
+LinkedIn https://www.linkedin.com/in/denishen/
 Email ds23@williams.edu
 
 ---
