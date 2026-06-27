@@ -1,8 +1,11 @@
 # Hi there, I'm Denis 👋
 
 🎓 **Undergraduate at Williams College** (Class of 2027)
+
 📚 Triple-majoring in **Mathematics, Computer Science, and Chinese**
+
 🔬 Researching **low-resource neural machine translation** and **Transformer architectures**
+
 🌏 Passionate about languages, linguistics, and the intersection of both with ML
 
 ---
