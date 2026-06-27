@@ -13,7 +13,7 @@
 ## 🔧 Tech & Tools
 
 - **Languages:** Java, Python, F\#, Bash, SQL/PostgreSQL
-- **ML & AI:** PyTorch, Hugging Face Transformers, NLLB-200, pandas, LoRA, MoE
+- **ML & AI:** PyTorch, Hugging Face Transformers, NLLB-200, pandas, LoRA, MoE, MoLE
 - **Other:** Git, Linux, LaTeX
 
 ---
