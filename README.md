@@ -41,9 +41,9 @@ Fine-tuned Meta's NLLB-200 to disentangle the effects of lexical vs. syntactic o
 
 ## 🌱 Currently Learning
 
-- Subword tokenization (BPE, SentencePiece) for low-resource languages
-- Neural language model pretraining objectives (masked LM, causal LM)
-- Evaluation metrics beyond BLEU — COMET, BERTScore
+- Designing subword tokenization for low-resource languages
+- Neural language model pretraining 
+- Evaluation metrics beyond BLEU andchRF
 - Transfer learning & cross-lingual representations
 
 ---
@@ -55,4 +55,3 @@ Fine-tuned Meta's NLLB-200 to disentangle the effects of lexical vs. syntactic o
 
 ---
 
-*"Math, code, and curiosity — building bridges between theory and application."*
