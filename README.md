@@ -9,7 +9,7 @@
 
 ## 🔧 Tech & Tools
 
-- **Languages:** Java, Python, F\#, JavaScript/TypeScript, Bash, SQL/PostgreSQL
+- **Languages:** Java, Python, F\#, Bash, SQL/PostgreSQL, Latex
 - **ML & AI:** PyTorch, Hugging Face Transformers, NLLB-200, pandas, LoRA, MoE
 - **Other:** Git, Linux, LaTeX
 
