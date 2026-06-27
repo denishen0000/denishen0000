@@ -25,7 +25,7 @@ Low-resource NMT for a morphologically rich language pair. Investigating Transfo
 
 📄 **WMT2025 — Encipherment & Multilingual Fine-tuning** *(Summer 2025)*
 Co-authored [*Using Encipherment to Isolate Conditions for the Successful Fine-tuning of Massively Multilingual Translation Models*](https://www2.statmt.org/wmt25/pdf/2025.wmt-1.14.pdf).
-Fine-tuned Meta's NLLB-200 to disentangle the effects of lexical vs. syntactic overlap on low-resource transfer performance across 20+ languages.
+Fine-tuned Meta's NLLB-200 to isolate the effects of lexical vs. syntactic overlap on low-resource transfer performance across 20+ languages.
 
 ---
 
