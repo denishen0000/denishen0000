@@ -11,7 +11,6 @@
 
 - **Languages:** Java, Python, F\#, JavaScript/TypeScript, Bash, SQL/PostgreSQL
 - **ML & AI:** PyTorch, Hugging Face Transformers, NLLB-200, pandas, LoRA, MoE
-- **Web & Backend:** React.js, Next.js, Node.js, Spring Boot, Socket.IO, JPA, JWT, Tailwind CSS
 - **Other:** Git, Linux, LaTeX
 
 ---
