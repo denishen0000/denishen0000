@@ -22,7 +22,7 @@
 ## 🔬 Research
 
 🧠 **English ↔ Amharic Neural Machine Translation** *(Summer 2026)*
-Low-resource NMT for a morphologically rich language pair. Investigating Transformer architecture adaptations, back-translation, synthetic corpora, and parameter-efficient fine-tuning techniques (LoRA, MoLE, MoE). Leading coordination across data collection and ML workstreams.
+Low-resource NMT for a morphologically rich language pair. Fine-tuned NLLB models (600M–3.3B) and benchmarked parameter-efficient methods (LoRA, prefix-tuning, OFT) against full fine-tuning, with prefix-tuning + LoRA adding +5.6 chrF over the 1.3B baseline. Applied contrastive preference optimization to reach 51.09 chrF on a held-out in-domain test set, the study's best in-domain result. Also adapted decoder-only Gemma-3 4B via vocabulary expansion and continued pretraining. Led coordination across data collection and ML workstreams.
 
 📄 **WMT2025 — Encipherment & Multilingual Fine-tuning** *(Summer 2025)*
 Co-authored [*Using Encipherment to Isolate Conditions for the Successful Fine-tuning of Massively Multilingual Translation Models*](https://www2.statmt.org/wmt25/pdf/2025.wmt-1.14.pdf).
