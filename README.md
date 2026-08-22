@@ -21,7 +21,7 @@
 
 ## 🔬 Research
 
-🧠 **English ↔ Amharic Neural Machine Translation** *(Jun 2026 – Present)*
+🧠 **English ↔ Amharic Neural Machine Translation** *(Summer 2026)*
 Low-resource NMT for a morphologically rich language pair. Investigating Transformer architecture adaptations, back-translation, synthetic corpora, and parameter-efficient fine-tuning techniques (LoRA, MoLE, MoE). Leading coordination across data collection and ML workstreams.
 
 📄 **WMT2025 — Encipherment & Multilingual Fine-tuning** *(Summer 2025)*
