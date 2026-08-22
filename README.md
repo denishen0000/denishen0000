@@ -11,9 +11,10 @@
 ---
 
 ## 🔧 Tech & Tools
-
 - **Languages:** Java, Python, F\#, Bash, SQL/PostgreSQL
 - **ML & AI:** PyTorch, Hugging Face Transformers, NLLB-200, pandas, LoRA, MoE, MoLE
+- **Backend:** Spring Boot, PostgreSQL, JWT
+- **Frontend:** React, Tailwind, Recharts
 - **Other:** Git, Linux, LaTeX
 
 ---
