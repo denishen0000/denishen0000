@@ -12,7 +12,7 @@
 
 ## 🔧 Tech & Tools
 - **Languages:** Java, Python, F\#, Bash, SQL/PostgreSQL
-- **ML & AI:** PyTorch, Hugging Face Transformers, NLLB-200, pandas, arameter-efficient fine-tuning (LoRA, prefix tuning), MoE, MoLE
+- **ML & AI:** PyTorch, Hugging Face Transformers, NLLB-200, pandas, parameter-efficient fine-tuning (LoRA, prefix tuning), MoE, MoLE
 - **Backend:** Spring Boot, PostgreSQL, JWT
 - **Frontend:** React, Tailwind, Recharts
 - **Other:** Git, Linux, LaTeX
