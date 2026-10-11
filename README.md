@@ -4,7 +4,7 @@
 
 📚 Triple-majoring in **Mathematics, Computer Science, and Chinese**
 
-🔬 Researching **low-resource neural machine translation** and **Transformer architectures**
+🔬 Researching **low-resource neural machine translation** 
 
 🌏 Passionate about languages, linguistics, and the intersection of both with ML
 
@@ -12,7 +12,7 @@
 
 ## 🔧 Tech & Tools
 - **Languages:** Java, Python, F\#, Bash, SQL/PostgreSQL
-- **ML & AI:** PyTorch, Hugging Face Transformers, NLLB-200, pandas, LoRA, MoE, MoLE
+- **ML & AI:** PyTorch, Hugging Face Transformers, NLLB-200, pandas, arameter-efficient fine-tuning (LoRA, prefix tuning), MoE, MoLE
 - **Backend:** Spring Boot, PostgreSQL, JWT
 - **Frontend:** React, Tailwind, Recharts
 - **Other:** Git, Linux, LaTeX
@@ -37,15 +37,6 @@ Fine-tuned Meta's NLLB-200 with a custom encipherment framework to separate lexi
 - 🏆 **[Real-time Leaderboard System](https://github.com/denishen0000/Real-time-Leaderboard-System)** – Full-stack leaderboard app with **Next.js**, **Node.js**, **PostgreSQL (Prisma)**, and **Socket.IO**. Real-time score updates, game CRUD, and JWT authentication.
 
 - 🔢 **[MatCalc](https://github.com/denishen0000/MatCalc)** – Domain-specific language for matrix computation in **F#**. Paper-like matrix input syntax, built-in operations (+, −, ×, ^T), variables, and semantic dimension checks.
-
----
-
-## 🌱 Currently Learning
-
-- Designing subword tokenization for low-resource languages
-- Neural language model pretraining 
-- Evaluation metrics beyond BLEU andchRF
-- Transfer learning & cross-lingual representations
 
 ---
 
